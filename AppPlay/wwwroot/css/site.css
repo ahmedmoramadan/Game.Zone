@@ -179,20 +179,6 @@ form .addgame {
     margin-bottom: 10px;
 }
 
-/* تخصيص حجم الفورم */
-/*.addgame {
-    width: 100%;
-    max-width: 800px;*/ /* زيادة الحجم ليكون أكبر */
-    /*margin: 0 auto;*/ /* توسيط الفورم */
-/*}*/
-
-    /* تخصيص حجم الحقول داخل الفورم */
-    /*.addgame .form-control,
-    .addgame .form-select {
-        font-size: 1.2rem;*/ /* زيادة حجم النص */
-        /*padding: 15px;*/ /* إضافة حشو أكثر لجعل الحقول أكبر */
-    /*}*/
-
 /* تخصيص صورة المعاينة بحيث تكون أكبر */
 .cover-preview {
     width: 100%; /* تغيير حجم الصورة المعروضة */
@@ -207,4 +193,21 @@ form .addgame {
 
 .col-md-6 {
     padding: 15px; /* إضافة حشو للحفاظ على المسافة بين العناصر */
+}
+
+/* الخلفية العامة لقائمة الخيارات لما تفتح */
+.select2-container--default .select2-results__options {
+    background-color: #333 !important; /* لون غامق */
+    color: white !important; /* النص أبيض */
+}
+
+/* لون العنصر لما تعدي عليه بالماوس */
+.select2-container--default .select2-results__option--highlighted[aria-selected] {
+    background-color: #555 !important; /* لون أغمق شوية عند الـ hover */
+    color: white !important;
+}
+
+/* لو عايز كمان تظبط لون العنصر اللي تم تحديده */
+.select2-selection__rendered {
+    color: black !important; /* أو خليها white لو الخلفية غامقة */
 }

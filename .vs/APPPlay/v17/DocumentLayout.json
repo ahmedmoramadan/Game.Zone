@@ -3,48 +3,52 @@
   "WorkspaceRootPath": "D:\\TasksITI\\MVC\\APPPlay\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{974C0DE3-8CF4-4114-89CC-DE8251B7DC67}|AppPlay\\AppPlay.csproj|d:\\tasksiti\\mvc\\appplay\\appplay\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{974C0DE3-8CF4-4114-89CC-DE8251B7DC67}|AppPlay\\AppPlay.csproj|solutionrelative:appplay\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{974C0DE3-8CF4-4114-89CC-DE8251B7DC67}|AppPlay\\AppPlay.csproj|d:\\tasksiti\\mvc\\appplay\\appplay\\views\\role\\new.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{974C0DE3-8CF4-4114-89CC-DE8251B7DC67}|AppPlay\\AppPlay.csproj|solutionrelative:appplay\\views\\role\\new.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{974C0DE3-8CF4-4114-89CC-DE8251B7DC67}|AppPlay\\AppPlay.csproj|d:\\tasksiti\\mvc\\appplay\\appplay\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{974C0DE3-8CF4-4114-89CC-DE8251B7DC67}|AppPlay\\AppPlay.csproj|solutionrelative:appplay\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{974C0DE3-8CF4-4114-89CC-DE8251B7DC67}|AppPlay\\AppPlay.csproj|d:\\tasksiti\\mvc\\appplay\\appplay\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{974C0DE3-8CF4-4114-89CC-DE8251B7DC67}|AppPlay\\AppPlay.csproj|solutionrelative:appplay\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{974C0DE3-8CF4-4114-89CC-DE8251B7DC67}|AppPlay\\AppPlay.csproj|d:\\tasksiti\\mvc\\appplay\\appplay\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{974C0DE3-8CF4-4114-89CC-DE8251B7DC67}|AppPlay\\AppPlay.csproj|solutionrelative:appplay\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{974C0DE3-8CF4-4114-89CC-DE8251B7DC67}|AppPlay\\AppPlay.csproj|d:\\tasksiti\\mvc\\appplay\\appplay\\views\\games\\creategame.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{974C0DE3-8CF4-4114-89CC-DE8251B7DC67}|AppPlay\\AppPlay.csproj|solutionrelative:appplay\\views\\games\\creategame.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{974C0DE3-8CF4-4114-89CC-DE8251B7DC67}|AppPlay\\AppPlay.csproj|d:\\tasksiti\\mvc\\appplay\\appplay\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{974C0DE3-8CF4-4114-89CC-DE8251B7DC67}|AppPlay\\AppPlay.csproj|solutionrelative:appplay\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{974C0DE3-8CF4-4114-89CC-DE8251B7DC67}|AppPlay\\AppPlay.csproj|d:\\tasksiti\\mvc\\appplay\\appplay\\views\\games\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{974C0DE3-8CF4-4114-89CC-DE8251B7DC67}|AppPlay\\AppPlay.csproj|solutionrelative:appplay\\views\\games\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{974C0DE3-8CF4-4114-89CC-DE8251B7DC67}|AppPlay\\AppPlay.csproj|d:\\tasksiti\\mvc\\appplay\\appplay\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{974C0DE3-8CF4-4114-89CC-DE8251B7DC67}|AppPlay\\AppPlay.csproj|solutionrelative:appplay\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{974C0DE3-8CF4-4114-89CC-DE8251B7DC67}|AppPlay\\AppPlay.csproj|d:\\tasksiti\\mvc\\appplay\\appplay\\views\\games\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{974C0DE3-8CF4-4114-89CC-DE8251B7DC67}|AppPlay\\AppPlay.csproj|solutionrelative:appplay\\views\\games\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{974C0DE3-8CF4-4114-89CC-DE8251B7DC67}|AppPlay\\AppPlay.csproj|d:\\tasksiti\\mvc\\appplay\\appplay\\views\\role\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{974C0DE3-8CF4-4114-89CC-DE8251B7DC67}|AppPlay\\AppPlay.csproj|solutionrelative:appplay\\views\\role\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{974C0DE3-8CF4-4114-89CC-DE8251B7DC67}|AppPlay\\AppPlay.csproj|d:\\tasksiti\\mvc\\appplay\\appplay\\views\\games\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{974C0DE3-8CF4-4114-89CC-DE8251B7DC67}|AppPlay\\AppPlay.csproj|solutionrelative:appplay\\views\\games\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{974C0DE3-8CF4-4114-89CC-DE8251B7DC67}|AppPlay\\AppPlay.csproj|d:\\tasksiti\\mvc\\appplay\\appplay\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{974C0DE3-8CF4-4114-89CC-DE8251B7DC67}|AppPlay\\AppPlay.csproj|solutionrelative:appplay\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{974C0DE3-8CF4-4114-89CC-DE8251B7DC67}|AppPlay\\AppPlay.csproj|d:\\tasksiti\\mvc\\appplay\\appplay\\views\\games\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{974C0DE3-8CF4-4114-89CC-DE8251B7DC67}|AppPlay\\AppPlay.csproj|solutionrelative:appplay\\views\\games\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{974C0DE3-8CF4-4114-89CC-DE8251B7DC67}|AppPlay\\AppPlay.csproj|d:\\tasksiti\\mvc\\appplay\\appplay\\views\\games\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{974C0DE3-8CF4-4114-89CC-DE8251B7DC67}|AppPlay\\AppPlay.csproj|solutionrelative:appplay\\views\\games\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{974C0DE3-8CF4-4114-89CC-DE8251B7DC67}|AppPlay\\AppPlay.csproj|d:\\tasksiti\\mvc\\appplay\\appplay\\views\\games\\creategame.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{974C0DE3-8CF4-4114-89CC-DE8251B7DC67}|AppPlay\\AppPlay.csproj|solutionrelative:appplay\\views\\games\\creategame.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{974C0DE3-8CF4-4114-89CC-DE8251B7DC67}|AppPlay\\AppPlay.csproj|d:\\tasksiti\\mvc\\appplay\\appplay\\views\\categories\\showcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{974C0DE3-8CF4-4114-89CC-DE8251B7DC67}|AppPlay\\AppPlay.csproj|solutionrelative:appplay\\views\\categories\\showcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{974C0DE3-8CF4-4114-89CC-DE8251B7DC67}|AppPlay\\AppPlay.csproj|d:\\tasksiti\\mvc\\appplay\\appplay\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{974C0DE3-8CF4-4114-89CC-DE8251B7DC67}|AppPlay\\AppPlay.csproj|solutionrelative:appplay\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{974C0DE3-8CF4-4114-89CC-DE8251B7DC67}|AppPlay\\AppPlay.csproj|d:\\tasksiti\\mvc\\appplay\\appplay\\views\\categories\\addcat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{974C0DE3-8CF4-4114-89CC-DE8251B7DC67}|AppPlay\\AppPlay.csproj|solutionrelative:appplay\\views\\categories\\addcat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{974C0DE3-8CF4-4114-89CC-DE8251B7DC67}|AppPlay\\AppPlay.csproj|d:\\tasksiti\\mvc\\appplay\\appplay\\views\\account\\register1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{974C0DE3-8CF4-4114-89CC-DE8251B7DC67}|AppPlay\\AppPlay.csproj|solutionrelative:appplay\\views\\account\\register1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{974C0DE3-8CF4-4114-89CC-DE8251B7DC67}|AppPlay\\AppPlay.csproj|d:\\tasksiti\\mvc\\appplay\\appplay\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{974C0DE3-8CF4-4114-89CC-DE8251B7DC67}|AppPlay\\AppPlay.csproj|solutionrelative:appplay\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{974C0DE3-8CF4-4114-89CC-DE8251B7DC67}|AppPlay\\AppPlay.csproj|d:\\tasksiti\\mvc\\appplay\\appplay\\views\\account\\addadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{974C0DE3-8CF4-4114-89CC-DE8251B7DC67}|AppPlay\\AppPlay.csproj|solutionrelative:appplay\\views\\account\\addadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -67,136 +71,158 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": ".gitignore",
-              "DocumentMoniker": "D:\\TasksITI\\MVC\\APPPlay\\AppPlay\\.gitignore",
-              "RelativeDocumentMoniker": "AppPlay\\.gitignore",
-              "ToolTip": "D:\\TasksITI\\MVC\\APPPlay\\AppPlay\\.gitignore",
-              "RelativeToolTip": "AppPlay\\.gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG/SURBVDhPrZRNTgIxFMerDIaEhHgU97JxwUKGGaNeQJdyCY0XUBDWGhg4AB\u002BuvQk7OQCRFTP1fXWmMxUMCT94ee177eu/LVQdFK31kTSJ0WgEIa0SMJ2A6QTHcF9iicQqlYpa/6zv2\u002B2HD5nuEkWR/l4udRzHZBtjGzFor1YrPR6P9WKx0MNhpN96vTuZThyLJ1AJLK/iJFFxjBanBsXIozqkWq2qev1c1Wq19063e0ZBwBNP4JaQ6WRC/i8ajQb5wWBAvnxyghpOqQPkC8L5IEEQKjgxaqOTFsCd65tb6nmlkur1\u002BxwXCgX58KfT7QptwvCK52wrSLcJvtUKOABkQ6HFXwbGsmMRBkchzpjNphLZDSrEn5G1qnsp\u002BPEtheloXouRnXDTTjhb5tXmeyg0IgzuliHp\u002By0OANbiOCDXp1IYo3mMUxBT8/mMA/8QhGH6ZzC4Zwi5ZqoQB9M3h62I/\u002B/SAQpniBmtPvdQyGeYUdgyX8pl05eIBSxmTzQYEYbc42AuJQWLGJNQEcrJG4A4BTHneSW2sqfKOyybkxXMPbAvrx3IsyLzkPJFmUcWYtDntjG6lIvnp8cvKXNIlPoFvstpJRlQPIAAAAAASUVORK5CYII=",
-              "WhenOpened": "2025-04-17T11:09:32.673Z",
+              "Title": "New.cshtml",
+              "DocumentMoniker": "D:\\TasksITI\\MVC\\APPPlay\\AppPlay\\Views\\Role\\New.cshtml",
+              "RelativeDocumentMoniker": "AppPlay\\Views\\Role\\New.cshtml",
+              "ToolTip": "D:\\TasksITI\\MVC\\APPPlay\\AppPlay\\Views\\Role\\New.cshtml",
+              "RelativeToolTip": "AppPlay\\Views\\Role\\New.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-17T13:27:07.477Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\TasksITI\\MVC\\APPPlay\\AppPlay\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "AppPlay\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\TasksITI\\MVC\\APPPlay\\AppPlay\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "AppPlay\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\TasksITI\\MVC\\APPPlay\\AppPlay\\Views\\Role\\Index.cshtml",
+              "RelativeDocumentMoniker": "AppPlay\\Views\\Role\\Index.cshtml",
+              "ToolTip": "D:\\TasksITI\\MVC\\APPPlay\\AppPlay\\Views\\Role\\Index.cshtml",
+              "RelativeToolTip": "AppPlay\\Views\\Role\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-17T10:45:07.037Z",
+              "WhenOpened": "2025-04-17T13:26:56.931Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "D:\\TasksITI\\MVC\\APPPlay\\AppPlay\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "AppPlay\\Controllers\\AccountController.cs",
-              "ToolTip": "D:\\TasksITI\\MVC\\APPPlay\\AppPlay\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "AppPlay\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCEAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T10:42:11.546Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\TasksITI\\MVC\\APPPlay\\AppPlay\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "AppPlay\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\TasksITI\\MVC\\APPPlay\\AppPlay\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "AppPlay\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T10:41:01.328Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CreateGame.cshtml",
-              "DocumentMoniker": "D:\\TasksITI\\MVC\\APPPlay\\AppPlay\\Views\\Games\\CreateGame.cshtml",
-              "RelativeDocumentMoniker": "AppPlay\\Views\\Games\\CreateGame.cshtml",
-              "ToolTip": "D:\\TasksITI\\MVC\\APPPlay\\AppPlay\\Views\\Games\\CreateGame.cshtml",
-              "RelativeToolTip": "AppPlay\\Views\\Games\\CreateGame.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-17T10:03:04.357Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\TasksITI\\MVC\\APPPlay\\AppPlay\\Views\\Games\\Edit.cshtml",
-              "RelativeDocumentMoniker": "AppPlay\\Views\\Games\\Edit.cshtml",
-              "ToolTip": "D:\\TasksITI\\MVC\\APPPlay\\AppPlay\\Views\\Games\\Edit.cshtml",
-              "RelativeToolTip": "AppPlay\\Views\\Games\\Edit.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAADIAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-17T10:00:32.916Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GamesController.cs",
-              "DocumentMoniker": "D:\\TasksITI\\MVC\\APPPlay\\AppPlay\\Controllers\\GamesController.cs",
-              "RelativeDocumentMoniker": "AppPlay\\Controllers\\GamesController.cs",
-              "ToolTip": "D:\\TasksITI\\MVC\\APPPlay\\AppPlay\\Controllers\\GamesController.cs",
-              "RelativeToolTip": "AppPlay\\Controllers\\GamesController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBUAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T10:00:03.859Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\TasksITI\\MVC\\APPPlay\\AppPlay\\Views\\Games\\Index.cshtml",
               "RelativeDocumentMoniker": "AppPlay\\Views\\Games\\Index.cshtml",
               "ToolTip": "D:\\TasksITI\\MVC\\APPPlay\\AppPlay\\Views\\Games\\Index.cshtml",
               "RelativeToolTip": "AppPlay\\Views\\Games\\Index.cshtml",
-              "ViewState": "AgIAABcAAAAAAAAAAAAowDUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-17T09:57:46.19Z"
+              "WhenOpened": "2025-04-17T13:26:46.338Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\TasksITI\\MVC\\APPPlay\\AppPlay\\Views\\Games\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AppPlay\\Views\\Games\\Edit.cshtml",
+              "ToolTip": "D:\\TasksITI\\MVC\\APPPlay\\AppPlay\\Views\\Games\\Edit.cshtml",
+              "RelativeToolTip": "AppPlay\\Views\\Games\\Edit.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-17T13:25:45.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\TasksITI\\MVC\\APPPlay\\AppPlay\\Views\\Games\\Details.cshtml",
               "RelativeDocumentMoniker": "AppPlay\\Views\\Games\\Details.cshtml",
               "ToolTip": "D:\\TasksITI\\MVC\\APPPlay\\AppPlay\\Views\\Games\\Details.cshtml",
               "RelativeToolTip": "AppPlay\\Views\\Games\\Details.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAcwDUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-17T09:55:28.325Z"
+              "WhenOpened": "2025-04-17T13:25:44.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateGame.cshtml",
+              "DocumentMoniker": "D:\\TasksITI\\MVC\\APPPlay\\AppPlay\\Views\\Games\\CreateGame.cshtml",
+              "RelativeDocumentMoniker": "AppPlay\\Views\\Games\\CreateGame.cshtml",
+              "ToolTip": "D:\\TasksITI\\MVC\\APPPlay\\AppPlay\\Views\\Games\\CreateGame.cshtml",
+              "RelativeToolTip": "AppPlay\\Views\\Games\\CreateGame.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-17T13:25:43.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShowCategory.cshtml",
+              "DocumentMoniker": "D:\\TasksITI\\MVC\\APPPlay\\AppPlay\\Views\\Categories\\ShowCategory.cshtml",
+              "RelativeDocumentMoniker": "AppPlay\\Views\\Categories\\ShowCategory.cshtml",
+              "ToolTip": "D:\\TasksITI\\MVC\\APPPlay\\AppPlay\\Views\\Categories\\ShowCategory.cshtml",
+              "RelativeToolTip": "AppPlay\\Views\\Categories\\ShowCategory.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-17T13:25:37.935Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "site.css",
-              "DocumentMoniker": "D:\\TasksITI\\MVC\\APPPlay\\AppPlay\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "AppPlay\\wwwroot\\css\\site.css",
-              "ToolTip": "D:\\TasksITI\\MVC\\APPPlay\\AppPlay\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "AppPlay\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAANIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-04-17T09:34:37.114Z"
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\TasksITI\\MVC\\APPPlay\\AppPlay\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "AppPlay\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "D:\\TasksITI\\MVC\\APPPlay\\AppPlay\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "AppPlay\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-17T13:25:34.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddCat.cshtml",
+              "DocumentMoniker": "D:\\TasksITI\\MVC\\APPPlay\\AppPlay\\Views\\Categories\\AddCat.cshtml",
+              "RelativeDocumentMoniker": "AppPlay\\Views\\Categories\\AddCat.cshtml",
+              "ToolTip": "D:\\TasksITI\\MVC\\APPPlay\\AppPlay\\Views\\Categories\\AddCat.cshtml",
+              "RelativeToolTip": "AppPlay\\Views\\Categories\\AddCat.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-17T13:25:28.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "register1.cshtml",
+              "DocumentMoniker": "D:\\TasksITI\\MVC\\APPPlay\\AppPlay\\Views\\Account\\register1.cshtml",
+              "RelativeDocumentMoniker": "AppPlay\\Views\\Account\\register1.cshtml",
+              "ToolTip": "D:\\TasksITI\\MVC\\APPPlay\\AppPlay\\Views\\Account\\register1.cshtml",
+              "RelativeToolTip": "AppPlay\\Views\\Account\\register1.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-17T13:25:19.935Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\TasksITI\\MVC\\APPPlay\\AppPlay\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "AppPlay\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\TasksITI\\MVC\\APPPlay\\AppPlay\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "AppPlay\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAAFUAAAANAAAAAAAAAA==",
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\TasksITI\\MVC\\APPPlay\\AppPlay\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "AppPlay\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\TasksITI\\MVC\\APPPlay\\AppPlay\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "AppPlay\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-17T09:36:13.189Z"
+              "WhenOpened": "2025-04-17T13:25:14.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddAdmin.cshtml",
+              "DocumentMoniker": "D:\\TasksITI\\MVC\\APPPlay\\AppPlay\\Views\\Account\\AddAdmin.cshtml",
+              "RelativeDocumentMoniker": "AppPlay\\Views\\Account\\AddAdmin.cshtml",
+              "ToolTip": "D:\\TasksITI\\MVC\\APPPlay\\AppPlay\\Views\\Account\\AddAdmin.cshtml",
+              "RelativeToolTip": "AppPlay\\Views\\Account\\AddAdmin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-17T13:24:58.839Z",
+              "EditorCaption": ""
             }
           ]
         }
