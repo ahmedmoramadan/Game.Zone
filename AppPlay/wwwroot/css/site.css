@@ -1,0 +1,210 @@
+﻿/* ✅ تكبير الصفحة وتثبيت الفوتر */
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* ✅ تضمن إن الجسم ياخد ارتفاع الشاشة كله */
+    background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+    color: #fff;
+    font-family: 'Chakra Petch', sans-serif;
+}
+
+main {
+    flex: 1; /* ✅ يخلي الـ main ياخد المساحة المتبقية من الجسم */
+}
+
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+/* ✅ إزالة التكرار */
+.cover-preview {
+    margin: 22px;
+    padding: 15px;
+    max-height: 550px;
+    max-width: 400px;
+    border-radius: 10px;
+    object-fit: cover;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    border: 2px dashed #258cfb;
+    transition: all 0.3s ease;
+}
+
+div .space {
+    height: 10%;
+    width: auto;
+}
+
+form:hover {
+    box-shadow: 0 0 20px rgba(37, 140, 251, 0.2);
+}
+
+/* 🎮 Form Inputs */
+.form-control,
+.form-select {
+    border: 2px solid #258cfb;
+    border-radius: 10px;
+    font-size: 1rem;
+    padding: 12px 18px;
+    transition: 0.3s ease-in-out;
+}
+
+    .form-control:focus,
+    .form-select:focus {
+        border-color: #1a6ed8;
+        box-shadow: 0 0 0 0.2rem rgba(37, 140, 251, 0.25);
+    }
+
+/* 🎨 Labels */
+label {
+    font-weight: 600;
+    color: #495057;
+}
+
+/* 🧢 Buttons */
+.btn-primary {
+    background-color: #258cfb;
+    border-color: #1a6ed8;
+    font-weight: bold;
+    letter-spacing: 0.5px;
+    transition: 0.3s ease-in-out;
+}
+
+    .btn-primary:hover {
+        background-color: #1a6ed8;
+        border-color: #1a6ed8;
+    }
+
+/* 📱 Responsive Helper */
+@media (max-width: 768px) {
+    .cover-preview {
+        width: 100%;
+        height: auto;
+        max-width: 100%;
+    }
+}
+
+/* ⚙️ Footer customization */
+footer {
+    background-color: #f8f9fa !important;
+    color: #212529;
+    width: 100%;
+    padding: 15px 0;
+    margin-top: auto; /* ✅ ده اللي بيخلي الفوتر ينزل لآخر الصفحة */
+}
+
+.head {
+    color: white;
+}
+
+form {
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+    width: 100%;
+/*    max-width: 500px;*/
+    margin: auto;
+    margin-bottom: 30px;
+}
+
+/* ✅ تنسيق رؤوس العناوين */
+h1, h4 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+/* ✅ تنسيق روابط العودة */
+a {
+    color: #258cfb;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+    a:hover {
+        text-decoration: underline;
+    }
+
+/* ✅ توسيط الصفوف الرئيسية */
+.row {
+    justify-content: center;
+}
+
+/* ✅ تنسيق رسالة الخطأ */
+.text-danger {
+    font-size: 0.9rem;
+    font-weight: 500;
+}
+
+/* ✅ تحسين مظهر أزرار الإرسال */
+input[type="submit"], .btn-primary {
+    width: 100%;
+    padding: 12px 20px;
+    border-radius: 10px;
+    font-size: 1rem;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+}
+
+/* ✅ تحسين مظهر رسائل التحقق */
+span.field-validation-error {
+    font-size: 0.85rem;
+    color: #ff4d4d;
+}
+
+form .addgame {
+    background: #ffffff;
+    border-radius: 20px;
+    border: 1px solid #dee2e6;
+    transition: all 0.3s ease-in-out;
+    height: 60%;
+/*    width: 80%;*/
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+/* تخصيص حجم الفورم */
+/*.addgame {
+    width: 100%;
+    max-width: 800px;*/ /* زيادة الحجم ليكون أكبر */
+    /*margin: 0 auto;*/ /* توسيط الفورم */
+/*}*/
+
+    /* تخصيص حجم الحقول داخل الفورم */
+    /*.addgame .form-control,
+    .addgame .form-select {
+        font-size: 1.2rem;*/ /* زيادة حجم النص */
+        /*padding: 15px;*/ /* إضافة حشو أكثر لجعل الحقول أكبر */
+    /*}*/
+
+/* تخصيص صورة المعاينة بحيث تكون أكبر */
+.cover-preview {
+    width: 100%; /* تغيير حجم الصورة المعروضة */
+    max-width: 400px;
+    max-height: 400px;
+}
+
+/* تخصيص الحاويات */
+.row {
+    margin-top: 30px; /* زيادة المسافة بين العناصر */
+}
+
+.col-md-6 {
+    padding: 15px; /* إضافة حشو للحفاظ على المسافة بين العناصر */
+}

@@ -1,0 +1,53 @@
+﻿@using APPPlay.settings;
+@model APPPlay.Models.Game
+
+@{
+    ViewData["Title"] = Model.Name;
+}
+
+<h1 class="text-center mb-4">@Model.Name</h1>
+
+<div class="container">
+    <div class="row">
+        <!-- ✅ تفاصيل اللعبة -->
+        <div class="col-md-6">
+            <div class="card p-4 shadow-sm bg-light mb-4">
+                <h4 class="mb-3 text-primary">Game Details</h4>
+                <dl class="row">
+                    <dt class="col-sm-4">Name</dt>
+                    <dd class="col-sm-8">@Model.Name</dd>
+
+                    <dt class="col-sm-4">Description</dt>
+                    <dd class="col-sm-8">@Model.Description</dd>
+
+                    <dt class="col-sm-4">Category</dt>
+                    <dd class="col-sm-8">@Model.CategoryId</dd>
+
+                    <dt class="col-sm-4">ID</dt>
+                    <dd class="col-sm-8">@Model.Id</dd>
+
+                    <dt class="col-sm-4">Devices</dt>
+                    <dd class="col-sm-8">
+                        @foreach (var i in Model.Devices)
+                        {
+                            <i class="@i.Devices.Icon me-2 fs-3 text-secondary"></i>
+                        }
+                    </dd>
+                </dl>
+            </div>
+        </div>
+
+        <!-- ✅ صورة الغلاف -->
+        <div class="col-md-6 d-flex justify-content-center align-items-center">
+            <img src="@($"{filesettings.ImagePath}/{Model.Cover}")"
+                 alt="@Model.Name"
+                 class="img-fluid rounded shadow"
+                 style="max-height: 400px;" />
+        </div>
+    </div>
+
+    <!-- ✅ زر الرجوع -->
+    <div class="text-center mt-4">
+        <a asp-action="Index" asp-controller="Home" class="btn btn-primary px-4 py-2">Back to List</a>
+    </div>
+</div>

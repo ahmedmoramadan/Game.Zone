@@ -1,0 +1,62 @@
+﻿@model IEnumerable<Game>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+@if (User.IsInRole("Admin"))
+{
+    <a class="btn btn-primary mt-2 btn-lg" asp-action="CreateGame">
+        <i class="bi bi-patch-plus-fill"></i>
+        Add Item
+    </a>
+}
+
+<div class="mt-5">
+    <table class="table table-bordered table-striped table-hover">
+        <thead class="table-dark">
+            <tr>
+                <th>Game Details</th>
+                @if (User.IsInRole("Admin"))
+                {
+                    <th>Actions</th>
+                }
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var i in Model)
+            {
+                <tr class="border-1 border-success">
+                    <td class="d-flex align-items-center">
+                        <div class="pe-2 d-flex justify-content-center">
+                            <img src="@($"{filesettings.ImagePath}/{i.Cover}")" alt="@i.Name" class="img-thumbnail" style="max-width: 80px;" />
+                        </div>
+                        <div class="d-flex flex-column ms-3">
+                            <h5 style="color:black; font-size:20px;">
+                                <small class="text-muted">Name:</small> @i.Name
+                            </h5>
+                            <h6 class="text-muted">Category: @i.Categories.Name</h6>
+                        </div>
+                    </td>
+                    @if (User.IsInRole("Admin"))
+                    {
+                        <td class="align-middle">
+                            <div class="d-flex justify-content-end">
+                                <a class="btn btn-info rounded-3 me-2" asp-action="Edit" asp-route-id="@i.Id">
+                                    <i class="bi bi-pencil-fill"></i> Edit
+                                </a>
+                                <a class="btn btn-danger rounded-3"
+                                   asp-action="Delete"
+                                   asp-route-id="@i.Id"
+                                   onclick="return confirm('Are you sure you want to delete this item?');">
+                                    <i class="bi bi-trash3"></i> Delete
+                                </a>
+
+                            </div>
+                        </td>
+                    }
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

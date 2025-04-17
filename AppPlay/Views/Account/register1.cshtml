@@ -1,0 +1,38 @@
+﻿@model RegisterViewModel
+@{
+    ViewData["Title"] = "register1";
+}
+
+<h1>register Padge</h1>
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Register1">
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="password" class="control-label"></label>
+                <input asp-for="password" class="form-control" />
+                <span asp-validation-for="password"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="confirm" class="control-label"></label>
+                <input asp-for="confirm" class="form-control" />
+                <span asp-validation-for="confirm"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Address" class="control-label"></label>
+                <input asp-for="Address" class="form-control" />
+                <span asp-validation-for="Address"></span>
+            </div>
+            <div class="form-group mt-2">
+                <input type="submit" value="register" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

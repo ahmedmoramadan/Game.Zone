@@ -1,0 +1,43 @@
+﻿@model RegisterViewModel
+
+@{
+    ViewData["Title"] = "AddAdmin";
+}
+
+<h1>Add Admin Padge</h1>
+
+<hr />
+<div class="row">
+    <div class=col-md-6 col-lg-5 col-xl-4">
+        <form asp-action="AddAdmin">
+            <div asp-validation-summary="All" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="password" class="control-label"></label>
+                <input asp-for="password" class="form-control" />
+                <span asp-validation-for="password" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="confirm" class="control-label"></label>
+                <input asp-for="confirm" class="form-control" />
+                <span asp-validation-for="confirm" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Address" class="control-label"></label>
+                <input asp-for="Address" class="form-control" />
+                <span asp-validation-for="Address" class="text-danger"></span>
+            </div>
+            <div class="form-group mt-3">
+                <input type="submit" value="AddAdmin" class="btn btn-primary btn-lg" />
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
